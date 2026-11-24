@@ -1,0 +1,10 @@
+# Kaggle competition data: not redistributable, download it yourself (see README)
+optiver-trading-at-the-close/
+*.csv
+*.zip
+
+# Python and Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.backup-*.ipynb
